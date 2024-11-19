@@ -1,0 +1,24 @@
+html {
+  text-align: center;
+  background-color: orange;
+  padding: 10px 20px;
+}
+
+body {
+  color: black;
+  background-color: white;
+  width: 700px;
+  margin: 0 auto;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+#op {
+  border: 10px 10px;
+}
+
+.green {
+  border: 2px solid green;
+  padding: 3px 3px;
+  border-radius: 20px;
+}
